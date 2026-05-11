@@ -1,0 +1,6 @@
+{
+  "name": "LinguAI",
+  "description": "A real-time conversational AI partner for language practice, featuring voice interaction and contextual learning.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": []
+}
